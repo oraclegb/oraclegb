@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oraclegb
-- 👀 I’m interested in software Development
-- 🌱 I’m currently learning more on cloud computing, data science
-- 💞️ I’m looking to collaborate on emmerging new technologies
+- 👀 I’m a software developer
+- 🌱 I’m cloud computing, data science and AI & ML enthusiast
+- 💞️ I’m looking to collaborate on emerging new technologies
 - 📫 How to reach me Email:stephotec200@gmail.com, 
 
 <!---
